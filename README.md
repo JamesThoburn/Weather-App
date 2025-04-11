@@ -15,6 +15,10 @@ This is a website in which the user can search for a location and data relating 
 - **Search Bar:** Search for a location and its data appears, if an invalid input is given then the website alerts the user as to it with a "City not found" message.
 - **Displaying data about a location:** Shows the name, temperature, description, temperature feel, humidity and wind speed, all in metric system.
 
+<p align="center">
+  <img src="./screenshot.png" alt="Photo of Website" width="700" />
+</p>
+
 ## Technologies Used
 - HTML5
 - CSS3
