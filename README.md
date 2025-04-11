@@ -20,3 +20,6 @@ This is a website in which the user can search for a location and data relating 
 - CSS3
 - JavaScript
 - React
+
+## License
+This project is licensed under a custom license - see the LICENSE file for more details.
