@@ -64,7 +64,7 @@ function Weather() {
                     </div>
                     <div className="weather__info--wind">
                         <p>Wind Speed: 
-                            {data.wind ? <span> {data.wind.speed} MPH</span> : null}
+                            {data.wind ? <span> {data.wind.speed} KM/H</span> : null}
                         </p>
                     </div>
                 </div>
