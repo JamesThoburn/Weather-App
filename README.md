@@ -9,7 +9,7 @@ This is a website in which the user can search for a location and data relating 
 - Description of the weather
 - What temperature it feels like (°C)
 - Humidity (%)
-- Wind Speed (KMPH)
+- Wind Speed (KM/H)
 
 ## Features
 - **Search Bar:** Search for a location and its data appears, if an invalid input is given then the website alerts the user as to it with a "City not found" message.
